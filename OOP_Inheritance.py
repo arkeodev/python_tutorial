@@ -31,7 +31,7 @@ class Clock(object):
     def __str__(self):
         return "%2d:%2d:%2d" % (self.__hours, self.__minutes, self.__seconds)
 
-
+# This is a comment for github learning
 # The Calendar Class
 class Calendar(object):
     months = (31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31)
