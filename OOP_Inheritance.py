@@ -32,7 +32,7 @@ class Clock(object):
         return "%2d:%2d:%2d" % (self.__hours, self.__minutes, self.__seconds)
 
 
-# This is the comment for github learning 2
+# This is the comment for github learning push test
 # The Calendar Class
 
 class Calendar(object):
